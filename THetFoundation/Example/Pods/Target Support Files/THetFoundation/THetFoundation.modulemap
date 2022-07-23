@@ -1,0 +1,6 @@
+framework module THetFoundation {
+  umbrella header "THetFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
